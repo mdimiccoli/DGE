@@ -35,8 +35,11 @@ demonstrate the generalization capabilities of the proposed DGE.
 
 
 
+
+
 ## <sub> code TBA soon </sub>
 #
+![DGE_graphModel](https://user-images.githubusercontent.com/50593288/135725077-c7a743d5-905b-4424-bb29-b368fa6faebe.jpg)
 
 
 ## Citation
